@@ -1,0 +1,11 @@
+set_io clk 1
+set_io rst 8
+
+set_io led[0] 95
+set_io led[1] 96
+set_io led[2] 97
+set_io led[3] 98
+set_io led[4] 99
+set_io led[5] 101
+set_io led[6] 102
+set_io led[7] 104
