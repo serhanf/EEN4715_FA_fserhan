@@ -1,0 +1,44 @@
+# ---- Clock ----
+set_io clk 1
+
+set_io rst_n 80
+
+set_io start_btn 83
+
+
+set_io sevenseg[0] 43
+set_io sevenseg[1] 45
+set_io sevenseg[2] 47
+set_io sevenseg[3] 48
+set_io sevenseg[4] 117
+set_io sevenseg[5] 118
+set_io sevenseg[6] 119
+set_io sevenseg[7] 120
+
+
+
+# ---- LEDs ----
+set_io led[0] 95  # led0
+set_io led[1] 96   # led1
+set_io led[2] 97   # led2
+set_io led[3] 98    # led3
+set_io led[4] 99   # led4
+set_io led[5] 101   # led5
+
+
+
+set_io rinse2 102       # LED shows Second Rinse ON
+set_io spin2 104      # LED shows Extra Spin ON
+
+
+
+# ---- Inputs on PMOD J2 (wire your switches/pushbuttons here) ----
+set_io sw0         8     # load size bit 0
+set_io sw1         9     # load size bit 1
+set_io sw2         10    # temperature bit 0
+set_io sw3         11    # temperature bit 1
+set_io sw4         12    # second rinse
+set_io sw5         15    # extra spin
+set_io sw6         16    # lid switch
+
+

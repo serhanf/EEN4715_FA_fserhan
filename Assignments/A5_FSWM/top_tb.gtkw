@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Oct 09 22:20:32 2025
+[*]
+[dumpfile] "C:\Users\fserh\OneDrive\Documents\ENN4715\EEN4715_FA_fserhan\Assignments\A5_FSWM\top_tb.vcd"
+[dumpfile_mtime] "Thu Oct 09 21:59:43 2025"
+[dumpfile_size] 22880
+[savefile] "C:\Users\fserh\OneDrive\Documents\ENN4715\EEN4715_FA_fserhan\Assignments\A5_FSWM\top_tb.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 126 -21
+*-15.537107 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top_tb.
+[sst_width] 197
+[signals_width] 218
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+top_tb.uut.clk
+top_tb.uut.start_btn
+top_tb.uut.rst_n
+top_tb.uut.state[2:0]
+top_tb.uut.tick_1hz
+@22
+top_tb.uut.sec_cnt[5:0]
+top_tb.uut.led[5:0]
+top_tb.uut.sevenseg[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
