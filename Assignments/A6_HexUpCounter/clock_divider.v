@@ -3,7 +3,7 @@ module clock_divider (
     input reset,
     output reg clk_out  
 );
-    parameter DIVISOR = 13_000_000;
+    parameter DIVISOR = 1_000_000;
 
     reg [24:0] counter;
 
@@ -20,5 +20,4 @@ module clock_divider (
             end
         end
     end
-
 endmodule
