@@ -14,7 +14,7 @@ module top_tb;
   wire [7:0] sevenseg;
   wire rinse2, spin2;
 
-  // 100 MHz sim clock
+  
   always #5 clk = ~clk;
 
   defparam uut.COUNT_WIDTH = 8;

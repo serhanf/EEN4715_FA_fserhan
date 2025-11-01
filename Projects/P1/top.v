@@ -24,7 +24,7 @@ module top (
 
 
     parameter COUNT_WIDTH = 24;
-    parameter [COUNT_WIDTH-1:0] COUNT = 16_000_000-1;  
+    parameter [COUNT_WIDTH-1:0] COUNT = 18_000_000-1;  
 
     reg [COUNT_WIDTH:0] count;
     reg tick_1hz;  // 1-cycle pulse each second
@@ -138,7 +138,7 @@ module top (
 
     
 
-    // Seven-seg shows the state number 0..6 
+    // Seven-seg shows the state number 0 to 6 
   
     always @* begin
         case (state)

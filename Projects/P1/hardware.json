@@ -9643,7 +9643,7 @@
         "hdlname": "\\top",
         "dynports": "00000000000000000000000000000001",
         "top": "00000000000000000000000000000001",
-        "src": "top.v:4.1-154.10"
+        "src": "top.v:4.1-156.10"
       },
       "parameter_default_values": {
         "COUNT": "111101000010001111111111",
@@ -9714,7 +9714,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9735,7 +9735,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9756,7 +9756,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9777,7 +9777,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9798,7 +9798,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9819,7 +9819,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9840,7 +9840,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9861,7 +9861,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9882,7 +9882,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9903,7 +9903,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9924,7 +9924,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9945,7 +9945,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9966,7 +9966,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -9987,7 +9987,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10008,7 +10008,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10029,7 +10029,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10050,7 +10050,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10071,7 +10071,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10092,7 +10092,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10113,7 +10113,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10134,7 +10134,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10155,7 +10155,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10176,7 +10176,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10198,7 +10198,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10220,7 +10220,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10242,7 +10242,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10264,7 +10264,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10286,7 +10286,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10308,7 +10308,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10330,7 +10330,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10352,7 +10352,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10374,7 +10374,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10396,7 +10396,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10418,7 +10418,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10440,7 +10440,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10462,7 +10462,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10484,7 +10484,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10506,7 +10506,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10528,7 +10528,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10550,7 +10550,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10572,7 +10572,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10594,7 +10594,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10616,7 +10616,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10638,7 +10638,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10660,7 +10660,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10682,7 +10682,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10704,7 +10704,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10726,7 +10726,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -10749,7 +10749,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10774,7 +10774,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10799,7 +10799,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10824,7 +10824,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10849,7 +10849,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10874,7 +10874,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10899,7 +10899,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10924,7 +10924,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10949,7 +10949,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10974,7 +10974,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10999,7 +10999,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11024,7 +11024,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11049,7 +11049,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11074,7 +11074,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11099,7 +11099,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11124,7 +11124,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11149,7 +11149,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11199,7 +11199,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11224,7 +11224,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11249,7 +11249,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11274,7 +11274,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11299,7 +11299,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11324,7 +11324,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11349,7 +11349,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11448,7 +11448,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:96.5-105.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
+            "src": "top.v:98.5-107.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
           },
           "port_directions": {
             "C": "input",
@@ -11472,7 +11472,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:96.5-105.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
+            "src": "top.v:98.5-107.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
           },
           "port_directions": {
             "C": "input",
@@ -11496,7 +11496,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:96.5-105.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
+            "src": "top.v:98.5-107.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
           },
           "port_directions": {
             "C": "input",
@@ -11520,7 +11520,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:96.5-105.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
+            "src": "top.v:98.5-107.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
           },
           "port_directions": {
             "C": "input",
@@ -11544,7 +11544,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:96.5-105.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
+            "src": "top.v:98.5-107.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
           },
           "port_directions": {
             "C": "input",
@@ -11568,7 +11568,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:96.5-105.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
+            "src": "top.v:98.5-107.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
           },
           "port_directions": {
             "C": "input",
@@ -11593,7 +11593,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11718,7 +11718,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11743,7 +11743,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11768,7 +11768,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11793,7 +11793,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11841,7 +11841,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11862,7 +11862,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11883,7 +11883,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11904,7 +11904,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12076,7 +12076,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:109.5-112.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
+            "src": "top.v:111.5-114.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
           },
           "port_directions": {
             "C": "input",
@@ -12100,7 +12100,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:109.5-112.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
+            "src": "top.v:111.5-114.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
           },
           "port_directions": {
             "C": "input",
@@ -12124,7 +12124,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:109.5-112.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
+            "src": "top.v:111.5-114.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:14.63-14.116"
           },
           "port_directions": {
             "C": "input",
@@ -12423,7 +12423,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:78.5-89.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "top.v:80.5-91.8|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -12726,14 +12726,14 @@
           "hide_name": 0,
           "bits": [ 24, 26, 66, 65, 63, 61, 59, 54, 31, 29, 57, 56, 52, 50, 48, 46, 44, 42, 40, 38, 36, 34, 70, 69, 72 ],
           "attributes": {
-            "src": "top.v:27.25-27.30"
+            "src": "top.v:29.25-29.30"
           }
         },
         "count_SB_DFFR_Q_D": {
           "hide_name": 0,
           "bits": [ 89, 88, 87, 86, 85, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 96, 95, 94, 93, 92, 91, 90, 84, 73, 71 ],
           "attributes": {
-            "src": "top.v:78.5-89.8"
+            "src": "top.v:80.5-91.8"
           }
         },
         "count_SB_DFFR_Q_D_SB_LUT4_O_I3": {
@@ -12741,28 +12741,28 @@
           "bits": [ "0", 24, 25, 64, 62, 60, 58, 53, 30, 27, 28, 55, 51, 49, 47, 45, 43, 41, 39, 37, 35, 32, 33, 67, 68 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:51.21-51.22"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:51.21-51.22"
           }
         },
         "led": {
           "hide_name": 0,
           "bits": [ 12, 13, 14, 15, 16, 17 ],
           "attributes": {
-            "src": "top.v:16.23-16.26"
+            "src": "top.v:18.23-18.26"
           }
         },
         "next": {
           "hide_name": 0,
           "bits": [ 100, 99, 98 ],
           "attributes": {
-            "src": "top.v:41.22-41.26"
+            "src": "top.v:43.22-43.26"
           }
         },
         "rinse2": {
           "hide_name": 0,
           "bits": [ 8 ],
           "attributes": {
-            "src": "top.v:18.17-18.23"
+            "src": "top.v:20.17-20.23"
           }
         },
         "rst_n": {
@@ -12776,14 +12776,14 @@
           "hide_name": 0,
           "bits": [ 15, 16, 17, 107, 105, 103 ],
           "attributes": {
-            "src": "top.v:93.15-93.22"
+            "src": "top.v:95.15-95.22"
           }
         },
         "sec_cnt_SB_DFFER_Q_D": {
           "hide_name": 0,
           "bits": [ 110, 109, 108, 106, 104, 101 ],
           "attributes": {
-            "src": "top.v:96.5-105.8"
+            "src": "top.v:98.5-107.8"
           }
         },
         "sec_cnt_SB_DFFER_Q_D_SB_LUT4_O_4_I3": {
@@ -12791,7 +12791,7 @@
           "bits": [ 140, 117, 116, 115, 114, 141 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:33.26-33.27",
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:33.26-33.27",
             "unused_bits": "0 5"
           }
         },
@@ -12800,21 +12800,21 @@
           "bits": [ "0", 15, 120, 119, 118, 113 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:51.21-51.22"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:51.21-51.22"
           }
         },
         "sevenseg": {
           "hide_name": 0,
           "bits": [ 18, 19, 20, 18, 21, 22, 23, "1" ],
           "attributes": {
-            "src": "top.v:17.23-17.31"
+            "src": "top.v:19.23-19.31"
           }
         },
         "spin2": {
           "hide_name": 0,
           "bits": [ 9 ],
           "attributes": {
-            "src": "top.v:19.17-19.22"
+            "src": "top.v:21.17-21.22"
           }
         },
         "start_btn": {
@@ -12828,7 +12828,7 @@
           "hide_name": 0,
           "bits": [ 12, 13, 14 ],
           "attributes": {
-            "src": "top.v:41.15-41.20"
+            "src": "top.v:43.15-43.20"
           }
         },
         "state_SB_DFFER_Q_E": {
@@ -12872,7 +12872,7 @@
           "bits": [ 111, 112, 103, 113 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
-            "src": "top.v:103.48-103.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:6.21-6.22"
+            "src": "top.v:105.48-105.62|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:6.21-6.22"
           }
         },
         "sw1_SB_LUT4_I3_O": {
@@ -12938,7 +12938,7 @@
           "hide_name": 0,
           "bits": [ 131 ],
           "attributes": {
-            "src": "top.v:28.9-28.17"
+            "src": "top.v:30.9-30.17"
           }
         },
         "tick_1hz_SB_DFFR_Q_D": {
@@ -12946,7 +12946,7 @@
           "bits": [ 97, "0", 57, 28 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
-            "src": "top.v:86.25-86.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:6.21-6.22"
+            "src": "top.v:88.25-88.60|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4|C:\\Users\\fserh\\APIO~1\\packages\\TOOLS-~1\\bin\\../share/yosys/ice40/cells_map.v:6.21-6.22"
           }
         },
         "tick_1hz_SB_DFFR_Q_D_SB_LUT4_O_I0": {
