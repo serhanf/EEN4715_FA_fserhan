@@ -1,0 +1,27 @@
+set_io clk 1
+
+set_io data_clk 44
+
+
+set_io rst 12
+
+
+set_io data_point 117
+
+set_io Enable 47
+
+
+set_io value_out 48
+
+
+set_io seg[0] 16
+set_io seg[1] 18
+set_io seg[2] 80
+set_io seg[3] 82
+set_io seg[4] 83
+set_io seg[5] 17
+set_io seg[6] 79
+set_io seg[7] 81
+
+
+set_io dig 11
