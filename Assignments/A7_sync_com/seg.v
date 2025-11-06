@@ -4,7 +4,7 @@ module seg (
     input  wire reset,  
     input value,    
     output reg [7:0] seg,   
-    output reg dig     // digit select
+    output reg dig     
 );
 initial begin
     dig = 1'b1;

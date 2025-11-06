@@ -14,7 +14,7 @@ wire value_out;
 wire [7:0] seg;
 wire dig;
 
-// Instantiate the Unit Under Test (UUT)
+
 top UUT (
     .clk(clk),
     .rst(rst),
@@ -30,9 +30,9 @@ top UUT (
 always #5 clk = ~clk;
 always #20 data_clk = ~data_clk;
 
-// Test sequence
+
 initial begin
-  $dumpfile("top_tb.vcd");  // FIXED: Use direct string instead of macro
+  $dumpfile("top_tb.vcd");  
   $dumpvars(0, top_tb);
   
   // Initialize inputs
@@ -43,7 +43,7 @@ initial begin
   // Release reset
   #15 rst = 0;
   
-  // Test sequence
+ 
   #30 Enable = 1;
   #40 data_point = 1;
   #40 data_point = 0;
@@ -63,7 +63,7 @@ initial begin
   $finish;
 end
 
-// Enhanced monitor to see segments
+
 initial begin
   $monitor("Time=%0t, rst=%b, Enable=%b, data_point=%b, value_out=%b, seg=%8b", 
            $time, rst, Enable, data_point, value_out, seg);
