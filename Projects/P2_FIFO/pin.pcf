@@ -1,0 +1,29 @@
+
+set_io clk 1
+
+
+set_io reset_btn 8
+set_io push_btn 10
+set_io pop_btn 12
+
+
+set_io keypad_rows[0] 45
+set_io keypad_rows[1] 47
+set_io keypad_rows[2] 48
+set_io keypad_rows[3] 117
+
+
+set_io keypad_cols[0] 118
+set_io keypad_cols[1] 119
+set_io keypad_cols[2] 120
+set_io keypad_cols[3] 121
+
+
+set_io leds[0] 95
+set_io leds[1] 96
+set_io leds[2] 97
+set_io leds[3] 98
+set_io leds[4] 99
+set_io leds[5] 101
+set_io leds[6] 102
+set_io leds[7] 104
