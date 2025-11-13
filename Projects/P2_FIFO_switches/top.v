@@ -6,7 +6,7 @@ module top(
     output wire       d1, d2, d3, d4
 );
 
-    // FIXED: Invert switches for active-low
+    
     wire [3:0] data_in = ~sw[3:0];  // Invert data switches
     wire push = ~sw[4];             // Invert push button
     wire pop = ~sw[5];              // Invert pop button

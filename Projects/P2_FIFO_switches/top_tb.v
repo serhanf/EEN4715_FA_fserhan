@@ -1,64 +1,60 @@
 `timescale 1ns/1ps
 
 module top_tb;
-  // Main system clock (100 MHz)
-  reg clk = 0;
-  always #5 clk = ~clk;
+    reg clk = 0;
+    reg [7:0] sw = 0;
+    wire [7:0] leds;
+    
 
-  // Active-low buttons (1 = unpressed, 0 = pressed)
-  reg reset_btn = 1;
-  reg push_btn  = 1;
-  reg pop_btn   = 1;
+    reg wr_clk = 0;
+    reg rd_clk = 0;
 
-  // 4-bit switch input
-  reg [3:0] sw = 4'b0000;
+    always #5 clk = ~clk;      // 100MHz
+    always #10 wr_clk = ~wr_clk; // 50MHz  
+    always #15 rd_clk = ~rd_clk; // 33MHz
 
-  // LED output from DUT (active-low on hardware)
-  wire [7:0] leds;
+    top uut (.clk(clk), .sw(sw), .leds(leds));
 
-  // Internal wires to observe clocks from DUT
-  wire wr_clk, rd_clk;
+    initial begin
+        $dumpfile("top_tb.vcd");
+        $dumpvars(0, top_tb);
+        
+        
+        $dumpvars(1, wr_clk);
+        $dumpvars(1, rd_clk);
 
-  // Instantiate DUT
-  top uut (
-    .clk(clk),
-    .reset_btn(reset_btn),
-    .push_btn(push_btn),
-    .pop_btn(pop_btn),
-    .sw(sw),
-    .leds(leds)
-  );
+        // Reset
+        sw[6] = 1; #100; sw[6] = 0; #100;
 
-  // Tap into the internal divided clocks
-  assign wr_clk = uut.wr_clk;
-  assign rd_clk = uut.rd_clk;
+        $display("=== Pushing 8 values ===");
+        
+        // Push 8 values
+        sw[3:0] = 1; sw[4] = 1; #50; sw[4] = 0; #100;
+        sw[3:0] = 2; sw[4] = 1; #50; sw[4] = 0; #100;
+        sw[3:0] = 3; sw[4] = 1; #50; sw[4] = 0; #100;
+        sw[3:0] = 4; sw[4] = 1; #50; sw[4] = 0; #100;
+        sw[3:0] = 5; sw[4] = 1; #50; sw[4] = 0; #100;
+        sw[3:0] = 6; sw[4] = 1; #50; sw[4] = 0; #100;
+        sw[3:0] = 7; sw[4] = 1; #50; sw[4] = 0; #100;
+        sw[3:0] = 8; sw[4] = 1; #50; sw[4] = 0; #100;
 
-  initial begin
-    $dumpfile("top_tb.vcd");
-    $dumpvars(0, top_tb);
+        $display("Full: %b", leds[5]);
 
-    // Reset sequence
-    reset_btn = 0; #100;
-    reset_btn = 1; #500;
+        $display("=== Popping 8 values ===");
+        
+        // Pop 8 values
+        sw[5] = 1; #50; sw[5] = 0; #100;
+        sw[5] = 1; #50; sw[5] = 0; #100;
+        sw[5] = 1; #50; sw[5] = 0; #100;
+        sw[5] = 1; #50; sw[5] = 0; #100;
+        sw[5] = 1; #50; sw[5] = 0; #100;
+        sw[5] = 1; #50; sw[5] = 0; #100;
+        sw[5] = 1; #50; sw[5] = 0; #100;
+        sw[5] = 1; #50; sw[5] = 0; #100;
 
-    // Push 8 values (0001 to 1000)
-    sw = 4'b0001;
-    repeat (8) begin
-      push_btn = 0; #50; push_btn = 1;
-      #50000; // wait for wr_clk domain to capture
-      sw = sw + 1;
+        $display("Empty: %b", leds[4]);
+
+        #100;
+        $finish;
     end
-
-    // Wait some time (FIFO full)
-    #200000;
-
-    // Pop 8 values
-    repeat (8) begin
-      pop_btn = 0; #50; pop_btn = 1;
-      #50000; // wait for rd_clk domain to capture
-    end
-
-    #200000;
-    $finish;
-  end
 endmodule
