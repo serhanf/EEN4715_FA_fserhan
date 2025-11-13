@@ -1,0 +1,38 @@
+
+set_io clk 1
+
+
+
+set_io sw[0] 45
+set_io sw[1] 47
+set_io sw[2] 48
+set_io sw[3] 117
+set_io sw[4] 118
+set_io sw[5] 119
+set_io sw[6] 120
+set_io sw[7] 121
+
+set_io seg[0] 16   
+set_io seg[1] 18    
+set_io seg[2] 80    
+set_io seg[3] 82   
+set_io seg[4] 83   
+set_io seg[5] 17    
+set_io seg[6] 79    
+set_io seg[7] 81
+
+
+set_io leds[0] 99
+set_io leds[1] 101
+set_io leds[2] 102
+set_io leds[3] 104
+set_io leds[4] 98
+set_io leds[5] 97
+set_io leds[6] 96
+set_io leds[7] 95
+
+
+set_io d1 11        # Digit 1 enable (rightmost)
+set_io d2 10        # Digit 2 enable
+set_io d3 9       # Digit 3 enable
+set_io d4 8        # Digit 4 enable (leftmost)
