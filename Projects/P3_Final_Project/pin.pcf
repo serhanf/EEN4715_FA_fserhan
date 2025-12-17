@@ -1,0 +1,29 @@
+set_io clk          1
+set_io reset       47
+
+set_io switches[0] 81
+set_io switches[1] 82
+set_io switches[2] 83
+set_io switches[3] 43
+
+set_io btn[0] 117
+set_io btn[1] 118
+set_io btn[2] 119
+set_io btn[3] 120
+
+set_io audio_out 121
+set_io status_led  95
+
+set_io seg[0] 8
+set_io seg[1] 9
+set_io seg[2] 10
+set_io seg[3] 11
+set_io seg[4] 12
+set_io seg[5] 15
+set_io seg[6] 17
+set_io seg[7] 18
+
+set_io dig[0] 79
+set_io dig[1] 80
+set_io dig[2] 44
+set_io dig[3] 45
